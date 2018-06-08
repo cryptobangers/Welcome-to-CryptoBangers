@@ -7,7 +7,7 @@
 ## List of Top Rated Quality Airdrops:
 
 ### 1. Synapse AI — free 50 tokens worth $15
-Sign up here: https://tokensale.synapse.ai/r/8998
+Sign up here: (https://tokensale.synapse.ai/r/8998)
 
 ### 2. Synthetics AI — free 100 tokens worth $10
 Sign up here: https://tokensale.syntheticsai.com/ref/c0e3675482e534
@@ -18,7 +18,7 @@ Sign up here: https://opu.ai/signup/pUNS95X33518
 ### 4.Ducator — free 1000+ tokens worth $10. (1 entry = 1 tokens)
 Sign up here: http://swee.ps/eSrasJAUb (Click Bounty in top right)
 
- ### 5. Unboxed — free 250 to 5000 tokens. (Must complete bounty task)
+### 5. Unboxed — free 250 to 5000 tokens. (Must complete bounty task)
 Sign up here: https://unboxed.network/r/abf7ed
 
 ### 6. Deconet — free 20 to 100 shares
