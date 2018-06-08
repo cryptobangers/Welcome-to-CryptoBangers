@@ -1,10 +1,10 @@
-Earn Money Without Investment Tutorial (Airdrop)
+### Earn Money Without Investment Tutorial (Airdrop)
 
-English Tutorial:
+## English Tutorial:
 
-Tagalog Tutorial: 
+## Tagalog Tutorial: 
 
-List of Top Rated Quality Airdrops:
+### List of Top Rated Quality Airdrops:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
